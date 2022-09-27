@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="adfdfds" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="2c509e28-aa77-4731-9dc4-328874e07a7c" weightsEnabled="false">
+    <weighted-embedded-action uid="2a09f824-a711-470a-88b3-226b3360f1a2"/>
+</basic-logical-action-container>
