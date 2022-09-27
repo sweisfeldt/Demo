@@ -1,0 +1,18 @@
+<http-page executeResourcesDynamically="false" name="page"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@sample@collab@user/%resources%/recorded-artifacts/79abb1e2-ea50-4481-8938-a6f40ff619ad.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="79abb1e2-ea50-4481-8938-a6f40ff619ad">
+    <embedded-action>7b9ce309-fd5f-47b4-b5e9-d7b420706b25</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="http_request_" path="/" postType="1"
+    serverUid="host" slaProfileEnabled="false"
+    uid="7b9ce309-fd5f-47b4-b5e9-d7b420706b25" useKeepAlive="false">
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

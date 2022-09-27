@@ -1,0 +1,94 @@
+<me-host browserBasedSupport="false" citrixSupport="false"
+    loadWeight="1" sapSupport="false" standalone="false"
+    supportWANEmulation="false" uid="localhost" version="9.0.0;build=20220826-66">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Intel(R) Dual Band Wireless-AC 8260"
+        enabled="false" isLoopBack="false" name="wlan1">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:d081:471b:3620:cb1d%wlan1">
+            <ip value="fe80:0:0:0:d081:471b:3620:cb1d%wlan1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Bluetooth Device (Personal Area Network)"
+        enabled="false" isLoopBack="false" name="eth6">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:80bf:e93d:fb78:f991%eth6">
+            <ip value="fe80:0:0:0:80bf:e93d:fb78:f991%eth6"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Hyper-V Virtual Ethernet Adapter"
+        enabled="false" isLoopBack="false" name="eth20">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="sweisfeldt-pc.intranet.neotys.com">
+            <ip value="172.31.192.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:95ae:5a46:6ef8:1982%eth20">
+            <ip value="fe80:0:0:0:95ae:5a46:6ef8:1982%eth20"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Hyper-V Virtual Ethernet Adapter #3"
+        enabled="false" isLoopBack="false" name="eth31">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="sweisfeldt-pc.intranet.neotys.com">
+            <ip value="172.24.192.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:243b:5407:accd:cf6f%eth31">
+            <ip value="fe80:0:0:0:243b:5407:accd:cf6f%eth31"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Intel(R) Ethernet Connection I219-LM"
+        enabled="false" isLoopBack="false" name="eth1">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="sweisfeldt-pc.intranet.neotys.com">
+            <ip value="192.168.1.187"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:d28:5221:ddb9:1784%eth1">
+            <ip value="fe80:0:0:0:d28:5221:ddb9:1784%eth1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="TAP-Windows Adapter V9"
+        enabled="false" isLoopBack="false" name="eth0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:e8f3:aec1:c763:3627%eth0">
+            <ip value="fe80:0:0:0:e8f3:aec1:c763:3627%eth0"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Hyper-V Virtual Ethernet Adapter #2"
+        enabled="false" isLoopBack="false" name="eth27">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="sweisfeldt-pc.intranet.neotys.com">
+            <ip value="172.29.96.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:dd29:94a3:db75:623a%eth27">
+            <ip value="fe80:0:0:0:dd29:94a3:db75:623a%eth27"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter"
+        enabled="false" isLoopBack="false" name="wlan5">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:4973:b6a7:6036:f8be%wlan5">
+            <ip value="fe80:0:0:0:4973:b6a7:6036:f8be%wlan5"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</me-host>
